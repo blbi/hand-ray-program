@@ -1,0 +1,2 @@
+# hax-ray-program
+hax-ray 64 : https://github.com/lentti/passket_E01/blob/master/HEX-ray64.py
